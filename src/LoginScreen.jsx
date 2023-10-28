@@ -83,8 +83,8 @@ const ChangePasswordLink = styled.a`
   text-decoration: none;
   color: #0073e6;
   margin-top: 10px;
-  display: block; /* Display on a separate line */
-  font-size: 14px; /* Smaller font size */
+  display: block; 
+  font-size: 14px; 
 `;
 
 const LoginScreen = () => {
